@@ -1,0 +1,15 @@
+C:\Учеба\Homework_2\bin\Debug\net7.0\Homework_2.exe
+C:\Учеба\Homework_2\bin\Debug\net7.0\Homework_2.deps.json
+C:\Учеба\Homework_2\bin\Debug\net7.0\Homework_2.runtimeconfig.json
+C:\Учеба\Homework_2\bin\Debug\net7.0\Homework_2.dll
+C:\Учеба\Homework_2\bin\Debug\net7.0\Homework_2.pdb
+C:\Учеба\Homework_2\obj\Debug\net7.0\Homework_2.csproj.AssemblyReference.cache
+C:\Учеба\Homework_2\obj\Debug\net7.0\Homework_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\Homework_2\obj\Debug\net7.0\Homework_2.AssemblyInfoInputs.cache
+C:\Учеба\Homework_2\obj\Debug\net7.0\Homework_2.AssemblyInfo.cs
+C:\Учеба\Homework_2\obj\Debug\net7.0\Homework_2.csproj.CoreCompileInputs.cache
+C:\Учеба\Homework_2\obj\Debug\net7.0\Homework_2.dll
+C:\Учеба\Homework_2\obj\Debug\net7.0\refint\Homework_2.dll
+C:\Учеба\Homework_2\obj\Debug\net7.0\Homework_2.pdb
+C:\Учеба\Homework_2\obj\Debug\net7.0\Homework_2.genruntimeconfig.cache
+C:\Учеба\Homework_2\obj\Debug\net7.0\ref\Homework_2.dll
